@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MergeBlock
+  - Grid
+  - GraphicsGrid
+  - Building
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tiles
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 850335945
+    locked: 0
+  - name: Tiles
+    uniqueID: 2283463587
+    locked: 0
+  - name: Building
+    uniqueID: 1947722289
+    locked: 0
+  - name: UI
+    uniqueID: 1750221149
+    locked: 0
