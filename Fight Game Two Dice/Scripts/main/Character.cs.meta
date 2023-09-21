@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 41de2d153047dea4fa51e0b8730a3c08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _fightSoundPrefab: {fileID: 1472627427585171794, guid: 9de2e4eccb052dc41bc20c4b8c87c0c6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
